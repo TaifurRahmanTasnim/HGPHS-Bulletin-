@@ -1,4 +1,4 @@
-# HGPHS-Bulletin
+
 <h1>School Bulletin</h1> 
 <!DOCTYPE html>
 <html>
